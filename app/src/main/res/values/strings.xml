@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">月子食谱</string>
+    <string name="how_day">第%1$d天</string>
+    <string name="cook_begin">开始煮</string>
+
+</resources>

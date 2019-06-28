@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="listitem_material_height">55dp</dimen>
+    <dimen name="listview_item_height">56dp</dimen>
+    
+    <dimen name="dinner_view_period_width">100dp</dimen>
+    <dimen name="dinner_view_dish_height">35dp</dimen>
+    <dimen name="dinner_view_period_textsize">30sp</dimen>
+    <dimen name="dinner_view_dish_textsize">20sp</dimen>
+    
+    <dimen name="panel_goods_info_width">200dp</dimen>
+
+</resources>

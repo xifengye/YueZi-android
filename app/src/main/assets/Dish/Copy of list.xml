@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Dish id="1">
+	      <name>四神猪肝粥</name>
+	      <image>1.png</image>
+		  <desc>补充产妇所需的养分，亦可补气，利水及伤口不易发炎的作用.</desc>
+		  <cookMethod>
+1.将药材洗净，滤干泡入月子水8小时备用
+2.山药切丁准用
+3.猪肝切丁，川烫后备用
+4.将1+2隔水蒸1小时后加入3拌匀，即可食用
+		  </cookMethod>
+		  <Material-list>
+			  <material id="19">50</material>
+		      <material id="8">75</material>
+		      <material id="14">10</material>
+		      <material id="16">10</material>
+		      <material id="34">50</material>
+		      <material id="33">500</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="2">
+	      <name>麻油炒猪肝</name>
+	      <image>2.png</image>
+		  <desc>富含维生素A、B2、铁、磷的麻油炒猪肝，有助于产妇将污血排出体外</desc>
+		  <cookMethod>
+1．猪肝洗净，切成0.5公分厚度；老姜刷洗干净，连皮一起切成薄片；
+2．麻油倒入锅内以大火烧热，放入姜片，改转小火爆至姜片两面均皱起来，且呈褐色，但不能焦黑；
+3．转大火，放入猪肝快炒至变色，加入坐月子，水煮开后立即熄火，趁热享用。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="34">200</material>
+		      <material id="17">5</material>
+		      <material id="35">30</material>
+		      <material id="33">260</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="3">
+	      <name>山药猪肝</name>
+	      <image>3.png</image>
+		  <desc></desc>
+		  <cookMethod>
+1．将猪肝切成1公分厚度，洗净备用；
+2．将山药切成小块洗净备用；
+3．黑麻油入锅大火烧热，放入姜片转小火，爆至褐色但不要焦黑；
+4．倒入猪肝转大火炒至猪肝变色，加入山药及月子水一同煮开，转小火炖50分钟即可。
+		  </cookMethod>
+		  <Material-list>
+		      <material id="34">150</material>
+			  <material id="19">50</material>
+		      <material id="17">6</material>
+		      <material id="35">30</material>
+		      <material id="33">500</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="4">
+	      <name>四神药膳猪肝</name>
+	      <image>4.png</image>
+		  <desc>补充养分，补气，恢复体力。</desc>
+		  <cookMethod>
+1．将猪肝切成1公分厚度，洗净备用；
+2．黑麻油入锅大火烧热，放入姜片转小火，爆至褐色但不要焦黑；
+3．倒入猪肝转大火炒至猪肝变色，放入药包袋及月子水一同煮开，转小火煮45分钟即可。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="26">10</material>
+		      <material id="25">5</material>
+		      <material id="14">5</material>
+		      <material id="16">10</material>
+		      <material id="8">10</material>
+		      <material id="34">200</material>
+		      <material id="35">20</material>
+		      <material id="33">500</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="5">
+	      <name>养肝汤</name>
+	      <image>5.png</image>
+		  <desc>为了解除剖腹产麻药可能带来的副作用，例如：胀气、掉头发、失眠、记忆力减退、便秘等症状。</desc>
+		  <cookMethod>1．红枣洗净，以刀划出七条纵纹；
+      2．放在容器中，用烧开的坐月子水冲下，加盖泡八小时（夏天应放入冰 
+         箱保存）；
+      3．用蒸器蒸之；
+      4．等沸腾后再用文火蒸40分钟；
+      5．将红枣挑起，只取汤。
+		  </cookMethod>
+		  <Material-list>
+		      <material id="20">7</material>
+		      <material id="33">280</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="6">
+	      <name>红豆汤</name>
+	      <image>6.png</image>
+		  <desc>强心利尿，消除“水肥体形”；但红豆吃多易胀气，故每日需控制在2碗
+      以内。</desc>
+		  <cookMethod>1．将红豆用清水洗净后沥干；
+      2．将红豆放入月子水中，加盖泡5小时；
+      3．将泡好的红豆连带月子水一起倒入高压锅中煮15分钟左右；
+      4．熄火，加入适量的黑糖调和即可。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="1">70</material>
+		      <material id="9">0</material>
+		      <material id="33">450</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="7">
+	      <name>桂圆糯米粥</name>
+	      <image>7.png</image>
+		  <desc>增强肠胃蠕动，防止胃下垂，预防便秘，但糯米不易消化，多吃易生胀气，每天需要控制2碗以内。</desc>
+		  <cookMethod>1．糯米洗净，与桂圆肉同放入坐月子水中，加盖泡3小时；
+      2．将糯米粥以大火煮开后，改为小火煮40分钟；
+      3．熄火后加入适量黑红糖搅拌均匀，即可享用。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="2">60</material>
+		      <material id="21">15</material>
+		      <material id="9">0</material>
+		      <material id="33">500</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="8">
+	      <name>薏仁饭</name>
+	      <image>8.png</image>
+		  <desc>薏仁含丰富淀粉、维生素B1，可消除浮肿，帮助多余的水分排出体外，
+      不必担心尿不出来，还可强化肠胃道机能，增进消化吸收能力。</desc>
+		  <cookMethod>1．将材料洗净，在坐月子水中浸泡三到四小时，以水超过材料1.5公分 
+        左右；
+      2．将浸泡好的材料移入电饭锅内煮熟即可。
+使用阶段：全阶段食用
+注：材料的用量可根据个人食量的大小来调节。
+		  </cookMethod>
+		  <Material-list>
+		      <material id="8">0.5</material>
+		      <material id="36">1</material>
+		      <material id="33">0</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="9">
+	      <name>五谷饭</name>
+	      <image>9.png</image>
+		  <desc>--1日份--
+		      --薏仁或燕麦二选1--
+		      均衡营养，防止营养不良，还具防癌的功效。</desc>
+		  <cookMethod>1．将材料洗净，在坐月子水中浸泡三到四小时，以水超过材料1.5公分 
+         左右；
+      2．将浸泡好的材料移入电饭锅内煮熟即可。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="36">1/2</material>
+		      <material id="6">0.25<</material>
+		      <material id="8">0.25<</material>
+		      <material id="4">0.25<</material>
+		      <material id="3">0.25<</material>
+		      <material id="2">0.25<</material>
+		      <material id="33">0</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="10">
+	      <name>糙米饭</name>
+	      <image>10.png</image>
+		  <desc>调节和维持体内内分泌平衡，促进代谢，防止肥胖。</desc>
+		  <cookMethod>1．将材料洗净，在坐月子水中浸泡三到四小时，以水超过材料1.5公分 
+         左右；
+      2．将浸泡好的材料移入电饭锅内煮熟即可。
+      注：材料的用量可根据个人食量的大小来调节。
+      
+		  </cookMethod>
+		  <Material-list>
+			  <material id="7">1</material>
+		      <material id="36">0.5</material>
+		      <material id="33">0</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="11">
+	      <name>黑米饭</name>
+	      <image>11.png</image>
+		  <desc>开胃益中,健脾暖肝,明目活血,美颜等。</desc>
+		  <cookMethod>1．将材料洗净，在坐月子水中浸泡三到四小时，以水超过材料1.5公分 
+         左右；
+      2．将浸泡好的材料移入电饭锅内煮熟即可。
+使用阶段：全阶段食用
+		  </cookMethod>
+		  <Material-list>
+			  <material id="5">1</material>
+		      <material id="36">0.5</material>
+		      <material id="33">0</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="12">
+	      <name>麻油鱼汤</name>
+	      <image>12.png</image>
+		  <desc>补充蛋白质和钙质，鲫鱼、鲢鱼还有促进乳汁分泌的作用。</desc>
+		  <cookMethod>1．将材料洗净；
+      2．麻油倒入锅内以大火烧热，放入老姜片后改转小火爆至褐色，但不能
+         焦黑；
+      3．放入鱼肉、月子水转大火煮开，转小火，加盖煮5分钟后熄
+         火，即可享用。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="37">500</material>
+		      <material id="17">5</material>
+		      <material id="35">45</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="13">
+	      <name>当归鱼汤</name>
+	      <image>13.png</image>
+		  <desc>活血补血，补充营养。</desc>
+		  <cookMethod>
+		      1．将材料洗净；
+      2．将油倒入锅中大火烧热，转小火，放入老姜爆至褐色，但不要焦黑；
+      3．加入鱼、坐月子水及当归转大火煮开，加盖转小火煮5分钟熄火即可。
+使用阶段：全阶段食用
+		      
+		  </cookMethod>
+		  <Material-list>
+			  <material id="37">500</material>
+		      <material id="17">5</material>
+		      <material id="35">45</material>
+		      <material id="23">15</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="14">
+	      <name>干贝鱼汤</name>
+	      <image>14.png</image>
+		  <desc>滋阴、补肾、调中、下气、利五脏之功效。
+		      
+		  </desc>
+		  <cookMethod>1．将材料洗净，另将干贝用稍温的水泡发10分钟；
+      2．麻油倒入锅内以大火烧热，放入老姜片后改转小火爆至褐色，但不能
+         焦黑；
+      3．放入鱼肉、干贝、月子水用大火煮开，转小火，加盖煮5分钟
+         后熄火，即可享用。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="37">500</material>
+		      <material id="17">5</material>
+		      <material id="35">45</material>
+		      <material id="12">12</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	
+	
+	<Dish id="15">
+	      <name>枸杞鱼汤</name>
+	      <image>15.png</image>
+		  <desc>补充蛋白质，清肝明目。
+		      
+		  </desc>
+		  <cookMethod>1．将材料洗净；
+      2．麻油倒入锅内以大火烧热，放入老姜片后改转小火爆至褐色，但不能焦黑；
+3．放入鱼肉、月子水转大火煮开，转小火加入枸杞，加盖煮5分钟后熄火，即可享用。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="37">120</material>
+		      <material id="17">5</material>
+		      <material id="35">45</material>
+		      <material id="11">12</material>
+		      <material id="33">350</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="16">
+	      <name>香菇鱼汤</name>
+	      <image>16.png</image>
+		  <desc>增强新陈代谢、帮助消化、减少胆固醇
+
+		  </desc>
+		  <cookMethod>1．将材料洗净，另将香菇用开水泡发20分钟；
+      2．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      3．放入鱼肉、香菇、月子水用大火煮开，转小火，加盖煮10分钟
+        后熄火，即可享用。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="37">120</material>
+		      <material id="17">5</material>
+		      <material id="35">45</material>
+		      <material id="10">5</material>
+		      <material id="33">350</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="17">
+	      <name>首乌鱼汤</name>
+	      <image>17.png</image>
+		  <desc>补肝，益肾，养血，美颜等。
+
+		  </desc>
+		  <cookMethod>1．将材料洗净；
+      2．麻油倒入锅内以大火烧热，放入老姜片后改转小火爆至褐色，但不能
+        焦黑；
+      3．放入鱼肉、首乌、枸杞、月子水用大火煮开，转小火，加盖煮5分钟
+         后熄火，即可享用。
+
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="37">120</material>
+		      <material id="17">5</material>
+		      <material id="11">8</material>
+		      <material id="35">45</material>
+		      <material id="28">15</material>
+		      <material id="33">350</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="18">
+	      <name>山药木耳排骨</name>
+	      <image>18.png</image>
+		  <desc>润肺补肾，健脑益气。
+
+		  </desc>
+		  <cookMethod>1．木耳用温水浸泡1小时，以泡软为标准，沥干备用；
+      2．将山药切成小块洗净备用；
+      3．黑麻油入锅大火烧热，放入姜片转小火，爆至褐色但不要焦黑；
+      4．倒入排骨、木耳翻炒20秒，加入山药及月子水一同煮开，转小火
+         炖30分钟即可。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="19">100</material>
+		      <material id="22">2</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="38">200</material>
+		      <material id="33">350</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="19">
+	      <name>竹荪莲子猪心（或排骨）</name>
+	      <image>19.png</image>
+		  <desc>补脾益肾养心；调节肠胃，帮助改善睡眠。
+
+		  </desc>
+		  <cookMethod>1．材料洗净，切好沥掉水份备用；
+      2．莲子放入月子水中加盖泡一小时；
+      3．麻油以大火烧热，放入老姜片后改转小火爆至褐色，但不能焦黑；
+      4．放入猪心（排骨）转大火炒至猪心变色，加入竹荪、莲子及月子水煮
+         开后转小火煮30分钟，熄火乘热吃。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="13">20</material>
+		      <material id="14">6</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="38">200</material>
+		      <material id="33">350</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="20">
+	      <name>膳食排骨</name>
+	      <image>20.png</image>
+		  <desc>预防腰酸背痛，补充体力
+
+
+		  </desc>
+		  <cookMethod>1．将排骨在开水中汆烫变色后，沥干备用；
+      2．麻油以大火烧热，放入老姜片后改转小火爆至褐色，但不能焦黑；
+      3．加月子水、排骨、膳食包一同大火煮开，转小火加盖炖煮50分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="27">8</material>
+			  <material id="24">5</material>
+			  <material id="23">5</material>
+		      <material id="11">12</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="38">200</material>
+		      <material id="33">500</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="21">
+	      <name>素炖品</name>
+	      <image>21.png</image>
+		  <desc>补充植物蛋白。
+
+		  </desc>
+		  <cookMethod>1．麻油倒入锅内以大火烧热，放入老姜片后改转小火爆至褐色，但不能
+         焦黑；
+      2．开袋放入素炖品翻炒10秒，加入月子水及枸杞转大火煮开，转小火，
+         加盖煮10分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="39">1</material>
+		      <material id="11">12</material>
+		      <material id="35">30</material>
+		      <material id="33">350</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="22">
+	      <name>麻油炒猪腰</name>
+	      <image>22.png</image>
+		  <desc>促进新陈代谢，促进收缩骨盆腔及子宫。
+
+		  </desc>
+		  <cookMethod>1．将猪腰子洗净后切成两半，把里面的白色尿腺剔出；
+      2．将清理干净的猪腰子在表面斜切数条裂纹后，切成三公分宽的小片；
+      3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      4．转大火，放入猪腰片炒至变色；
+      5．加入坐月子水煮开，马上熄火，乘热吃。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="40">2</material>
+		      <material id="17">5</material>
+		      <material id="35">40</material>
+		      <material id="33">400</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="23">
+	      <name>山药腰花</name>
+	      <image>23.png</image>
+		  <desc>补肾气，健脾，促进收缩骨盆腔及子宫。
+
+
+		  </desc>
+		  <cookMethod>1．将猪腰子洗净后切成两半，把里面白色尿腺剔出，山药切成小段备用；
+      2．将清理干净的猪腰子在表面斜切数条裂纹后，切成三公分宽的小片；
+      3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      4．转大火，放入猪腰片炒至变色；
+      5．加入坐月子水及山药煮开，转小火，煮45分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="40">2</material>
+			  <material id="19">100</material>
+		      <material id="17">3</material>
+		      <material id="35">35</material>
+		      <material id="33">300</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="24">
+	      <name>杜仲腰花</name>
+	      <image>24.png</image>
+		  <desc>促进骨盆及子宫收缩；防止腰酸，改善肾虚腰疼、下肢无力、尿频等。
+
+
+		  </desc>
+		  <cookMethod>1．将杜仲于月子水中煮开，转文火加盖煮40分钟取汁备用；
+       2．将清理干净的猪腰子在表面斜切数条裂纹后，切成三公分宽的小片；
+       3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+       4．转大火，放入猪腰炒至变色；
+       5．放入1中的汤汁煮开，熄火，乘热吃。
+
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="40">2</material>
+			  <material id="27">15</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="33">300</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="25">
+	      <name>黑木耳腰花</name>
+	      <image>25.png</image>
+		  <desc>强身补腰，养颜补血，补充铁质等。</desc>
+		  <cookMethod>1．黑木耳用温水泡1小时，以泡软为标准，捞出，沥水备用；
+      2．猪腰剔除尿腺，洗净切好花纹备用；
+      3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      4．转大火，放入猪腰炒至变色，放入黑木耳同炒10秒；
+      5．放入月子水煮开，转文火煮10分钟即可食用。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="40">2</material>
+			  <material id="22">2</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="33">300</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="26">
+	      <name>药膳腰花</name>
+	      <image>26.png</image>
+		  <desc>补肝肾，强筋骨，防止腰酸背疼、关节疼痛、脚软无力等。</desc>
+		  <cookMethod>1．将猪腰子洗净后切成两半，把里面的白色尿腺剔出；
+      2．将清理干净的猪腰子在表面斜切数条裂纹后，切成三公分宽的小片；
+      3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      4．转大火，放入猪腰片炒至变色；
+      5．加入坐月子水及药包袋煮开，转小火，煮45分钟即可。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="40">2</material>
+			  <material id="27">6</material>
+			  <material id="24">6</material>
+			  <material id="23">5</material>
+			  <material id="11">10</material>
+			  <material id="41">8</material>
+			  <material id="20">2</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="33">300</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="27">
+	      <name>四神腰花</name>
+	      <image>27.png</image>
+		  <desc>补气、利水，促进新陈代谢，帮助入睡等作用。</desc>
+		  <cookMethod>1．将猪腰子洗净后切成两半，把里面的白色尿腺剔出；
+      2．将清理干净的猪腰子在表面斜切数条裂纹后，切成三公分宽的小片；
+      3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      4．转大火，放入猪腰片炒至变色；
+      5．加入坐月子水及药包袋煮开，转小火，煮45分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="40">2</material>
+			  <material id="26">10</material>
+			  <material id="25">5</material>
+			  <material id="14">5</material>
+			  <material id="16">10</material>
+			  <material id="8">10</material>
+		      <material id="35">20</material>
+		      <material id="33">500</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="28">
+	      <name>台湾油饭</name>
+	      <image>28.png</image>
+		  <desc>促进肠胃蠕动，防止产后内脏下垂。</desc>
+		  <cookMethod>1．糯米洗净沥干后，于月子水中泡8小时后捞起沥干，泡过的水备用；
+      2．将香菇、虾米泡入1中留下的月子水中，泡软后香菇切成粗丝；
+      3．老姜、五花肉、胡萝卜均切成粗丝；
+      4．锅子加热后放入4大匙麻油，将老姜、大蒜放下炒成浅褐色具香味；
+      5．加入虾米、香菇、五花肉及胡萝卜炒至香味出来出来即取出；
+      6．锅内重新加热，放入三大匙麻油烧热，糯米下锅炒至粘性，加入5中
+         的材料一起炒；
+      7．将炒好的材料放入蒸锅内，并加入泡过虾米及香菇的月子水，分量需
+         盖过所有材料；
+      8．放入蒸笼或电饭锅内，蒸熟即可食用。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="2">40</material>
+			  <material id="10">6</material>
+			  <material id="42">6</material>
+			  <material id="18">6</material>
+			  <material id="43">30</material>
+			  <material id="44">6</material>
+			  <material id="17">5</material>
+		      <material id="35">0</material>
+		      <material id="33">100</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="29">
+	      <name>归芪猪心</name>
+	      <image>29.png</image>
+		  <desc>促进睡眠，养气补血。</desc>
+		  <cookMethod>1．将当归、黄芪于月子水中煮开，转文火煮40分钟取汁备用；
+       2．猪心洗净切半公分厚度小片；
+       3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+       4．转大火，放入猪心炒至变色；
+       5．放入1中的汤汁煮开，熄火，乘热吃。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="45">200</material>
+			  <material id="24">15</material>
+			  <material id="23">15</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="30">
+	      <name>胡萝卜排骨</name>
+	      <image>30.png</image>
+		  <desc>提高免疫力，增强抵抗力。</desc>
+		  <cookMethod>1．将排骨在开水中汆烫变色后，沥干备用；
+      2．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      3．将胡萝卜、排骨放入锅中翻炒10秒钟，加入月子水转大火煮开后转文
+         火炖煮50分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="38">200</material>
+			  <material id="42">100</material>
+		      <material id="17">3</material>
+		      <material id="35">35</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="31">
+	      <name>当归排骨</name>
+	      <image>31.png</image>
+		  <desc>提高免疫力，增强抵抗力。</desc>
+		  <cookMethod>1．将排骨在开水中汆烫变色后，沥干备用；
+      2．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      3．将胡萝卜、排骨放入锅中翻炒10秒钟，加入月子水转大火煮开后转文
+         火炖煮50分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="38">180</material>
+			  <material id="23">15</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="33">500</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="32">
+	      <name>时令蔬菜</name>
+	      <image>32.png</image>
+		  <desc>促进消化，预防便秘。</desc>
+		  <cookMethod>
+		      第二周以红色蔬菜为主，如：胡萝或红苋菜等；第三周以后只要是温和的
+      蔬菜均可选择，有些菜在烧制时可搭配少许的枸杞。
+		      
+		      1．将蔬菜洗净，带皮老姜切成薄片；
+      2．用适量的麻油及老姜快炒，再加些月子水使之沸腾后煮烂即可食用。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="46">0</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="33">
+	      <name>麻油鸡</name>
+	      <image>33.png</image>
+		  <desc>滋补营养，恢复体力。</desc>
+		  <cookMethod>1．鸡肉洗净切成块状，老姜洗净切成薄片；
+      2．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      3．转大火，放入鸡块炒至鸡肉约七分熟；
+      4．将月子水由锅子四周往中间淋入，加盖煮滚后，转小火煮30至40分
+         钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="47">0.5</material>
+		      <material id="17">7</material>
+		      <material id="35">45</material>
+		      <material id="33">450</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="34">
+	      <name>药膳炖鸡</name>
+	      <image>34.png</image>
+		  <desc>补充体力、补气、补血、补禁锢。</desc>
+		  <cookMethod>1．将药膳包于月子水中煮开，转文火煮25分钟取汁备用；
+      2．鸡肉洗净切成块状，老姜洗净切成薄片；
+      3．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      4．转大火，放入鸡块炒至鸡肉约七分熟；
+      5．放入1中的汤汁煮开，再转小火煮45分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="47">0.5</material>
+			  <material id="23">6</material>
+			  <material id="41">6</material>
+			  <material id="24">10</material>
+			  <material id="48">4</material>
+			  <material id="49">4</material>
+			  <material id="50">2</material>
+		      <material id="20">7</material>
+		      <material id="35">25</material>
+		      <material id="33">450</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="35">
+	      <name>首乌炖鸡</name>
+	      <image>35.png</image>
+		  <desc>补肝，益肾，养血，美颜等。</desc>
+		  <cookMethod>1．将材料洗净；
+      2．麻油以大火烧热，放入老姜片后改转小火爆至褐色，但不能焦黑；
+      3．转大火，将鸡块倒入炒至7分熟；
+      4．加入何首乌、龙眼肉、枸杞及月子水煮开后，转小火煮35分钟即可。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="47">0.5</material>
+			  <material id="51">3</material>
+			  <material id="28">15</material>
+			  <material id="11">8</material>
+		      <material id="17">5</material>
+		      <material id="35">35</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="36">
+	      <name>山药炖鸡</name>
+	      <image>36.png</image>
+		  <desc>补肾强腰，滋阴养颜，调节肠胃。</desc>
+		  <cookMethod>1．将材料洗净沥干；
+      2．鸡肉洗净切块，山药洗净切成小块；
+      3．将油倒入锅中大火烧热，转小火，放入老姜爆至褐色，但不要焦黑；
+      4．转大火，放入鸡块炒至鸡肉约七分熟；
+      5．加入月子水、山药同煮，加盖煮滚后，转小火煮45分钟即可。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="47">0.5</material>
+			  <material id="19">80</material>
+		      <material id="17">7</material>
+		      <material id="35">45</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="37">
+	      <name>竹荪干贝鸡</name>
+	      <image>37.png</image>
+		  <desc>调整体质，恢复体力。</desc>
+		  <cookMethod>1．鸡肉洗净切成块状，老姜洗净切成薄片；
+      2．麻油以大火烧热，放入姜片后改转小火爆至褐色，但不能焦黑；
+      3．转大火，放入鸡块炒至鸡肉约七分熟；
+      4．加入月子水、竹荪、干贝同煮，加盖煮滚后，转小火煮30分钟即可。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="47">0.5</material>
+			  <material id="13">7</material>
+			  <material id="12">10</material>
+		      <material id="17">7</material>
+		      <material id="35">45</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="38">
+	      <name>花生猪脚</name>
+	      <image>38.png</image>
+		  <desc>到了第三周奶水不足或清淡的产妇，可适量食用花生猪脚来补充奶源。</desc>
+		  <cookMethod>1．香菇要泡在十倍量的月子水中泡软、切丝备用；
+      2．花生放入水中滚开，稍凉乘热浆膜去掉剥成两半，去掉胚芽；
+      3．麻油加热后，放入老姜爆透，取出备用；
+      4．将猪脚放入锅内炒至外皮变色为止取出备用；
+      5．放入花生炒一会儿，放入猪脚、老姜，最后加香菇、虾及月子水；
+      6．加盖烧滚后，装入炖锅慢炖约4小时。
+
+		  </cookMethod>
+		  <Material-list>
+			  <material id="52">45</material>
+			  <material id="44">25</material>
+			  <material id="53">150</material>
+			  <material id="10">10</material>
+		      <material id="17">0</material>
+		      <material id="35">45</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="39">
+	      <name>血母痛液</name>
+	      <image>39.png</image>
+		  <desc>产后若有子宫凝血且肚子会痛的人,可服用血母痛液来改善。</desc>
+		  <cookMethod>1．将山楂肉与月子水以大火煮开后,加盖改以小火炖30分钟
+      2．将汤滤出,改以不加盖的锅子,大火继续滚至600ml
+      3.加入红糖搅拌后熄火即可
+		  </cookMethod>
+		  <Material-list>
+			  <material id="29">300</material>
+			  <material id="9">0</material>
+		      <material id="33">1000</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="40">
+	      <name>银耳莲子羹</name>
+	      <image>40.png</image>
+		  <desc>滋阴润肺,补脾安神。</desc>
+		  <cookMethod>1．将材料洗净沥干
+      2．将银耳,莲子在月子水中浸泡1小时
+      3.将泡好的银子,莲子连带月子水一起倒入锅中放入红枣和枸杞
+      4.大火煮开转小火45分钟
+      5.放入红糖,熄火趁热吃
+		  </cookMethod>
+		  <Material-list>
+			  <material id="15">2</material>
+			  <material id="14">15</material>
+			  <material id="20">7</material>
+			  <material id="11">5</material>
+		      <material id="33">600</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="41">
+	      <name>生化汤</name>
+	      <image>41.png</image>
+		  <desc>1/3碗</desc>
+		  <cookMethod>
+		  </cookMethod>
+		  <Material-list>
+			 
+		  </Material-list>
+	</Dish>
+	<Dish id="42">
+	      <name>妇宝</name>
+	      <image>42.png</image>
+		  <desc>1包</desc>
+		  <cookMethod>
+		  </cookMethod>
+		  <Material-list>
+			 
+		  </Material-list>
+	</Dish>
+	<Dish id="43">
+	      <name>仙杜康</name>
+	      <image>43.png</image>
+		  <desc>2包</desc>
+		  <cookMethod>
+		  </cookMethod>
+		  <Material-list>
+			 
+		  </Material-list>
+	</Dish>
+	<Dish id="44">
+	      <name>养要康</name>
+	      <image>43.png</image>
+		  <desc>2</desc>
+		  <cookMethod>
+		  </cookMethod>
+		  <Material-list>
+			 
+		  </Material-list>
+	</Dish>
+	<Dish id="45">
+	      <name>月子饮料</name>
+	      <image>44.png</image>
+		  <desc></desc>
+		  <cookMethod>
+		  </cookMethod>
+		  <Material-list>
+			 
+		  </Material-list>
+	</Dish>
+	<Dish id="46">
+	      <name>十全鱼汤</name>
+	      <image>46.png</image>
+		  <desc>补气养血。
+
+		  </desc>
+		  <cookMethod>1．将材料洗净；
+      2．麻油以大火烧热，放入老姜片后改转小火爆至褐色，但不能焦黑；
+      3．放入鱼肉、十全包、月子水用大火煮开，转小火，加盖煮10分钟
+         后熄火，即可享用。
+		  </cookMethod>
+		  <Material-list>
+			  <material id="37">120</material>
+		      <material id="17">5</material>
+		      <material id="21">2</material>
+		      <material id="24">2</material>
+		      <material id="48">2</material>
+		      <material id="23">2</material>
+		      <material id="35">35</material>
+		      <material id="33">350</material>
+		  </Material-list>
+	</Dish>
+	<Dish id="47">
+	      <name>水果</name>
+	      <image>47.png</image>
+		  <desc>
+		  </desc>
+		  <cookMethod>
+		  </cookMethod>
+		  <Material-list>
+		  </Material-list>
+	</Dish>
+</config>

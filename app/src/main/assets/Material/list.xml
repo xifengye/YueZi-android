@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Material id="1">
+	      <name>红豆</name>
+	      <image>1.jpg</image>
+		  <desc></desc>
+	</Material>
+	<Material id="2">
+	    <name>糯米</name>
+	    <image>2.jpg</image>
+		<desc></desc>
+		<unit>杯</unit>
+	</Material>
+	<Material id="3">
+	    <name>玉米渣</name>
+	    <image>3.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="4">
+	    <name>燕麦片</name>
+	    <image>4.jpg</image>
+		<desc></desc>
+		<unit>杯</unit>
+	</Material>
+	<Material id="5">
+	    <name>黑米</name>
+	    <image>5.jpg</image>
+		<desc></desc>
+		<unit>杯</unit>
+	</Material>
+	<Material id="6">
+	    <name>小米</name>
+	    <image>6.jpg</image>
+		<desc></desc>
+		<unit>杯</unit>
+	</Material>
+	<Material id="7">
+	    <name>糙米</name>
+	    <image>7.jpg</image>
+		<desc></desc>
+		<unit>杯</unit>
+	</Material>
+	<Material id="8">
+	    <name>薏仁</name>
+	    <image>8.jpg</image>
+		<desc></desc>
+		<unit>杯</unit>
+	</Material>
+	<Material id="9">
+	    <name>红糖</name>
+	    <image>9.jpg</image>
+		<desc></desc>
+		
+	</Material>
+	<Material id="10">
+	    <name>红菇</name>
+	    <image>10.jpg</image>
+		<desc></desc>
+		
+	</Material>
+	<Material id="11">
+	    <name>枸杞</name>
+	    <image>11.jpg</image>
+		<desc></desc>
+		<unit>粒</unit>
+	</Material>
+	<Material id="12">
+	    <name>干贝</name>
+	    <image>12.jpg</image>
+		<desc></desc>
+		<unit>粒</unit>
+	</Material>
+	<Material id="13">
+	    <name>竹荪</name>
+	    <image>13.jpg</image>
+		<desc></desc>
+		
+	</Material>
+	<Material id="14">
+	    <name>莲子</name>
+	    <image>14.jpg</image>
+		<desc></desc>
+		<unit>颗</unit>
+	</Material>
+	<Material id="15">
+	    <name>银耳</name>
+	    <image>15.jpg</image>
+		<desc></desc>
+		<unit>朵</unit>
+	</Material>
+	<Material id="16">
+	    <name>芡实</name>
+	    <image>16.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="17">
+	    <name>老姜</name>
+	    <image>17.jpg</image>
+		<desc></desc>
+		<unit>片</unit>
+	</Material>
+	<Material id="18">
+	    <name>大蒜</name>
+	    <image>18.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="19">
+	    <name>山药</name>
+	    <image>19.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="20">
+	    <name>红枣</name>
+	    <image>20.jpg</image>
+		<desc></desc>
+		<unit>粒</unit>
+	</Material>
+	<Material id="21">
+	    <name>桂圆肉</name>
+	    <image>21.jpg</image>
+		<desc></desc>
+		<unit>片</unit>
+	</Material>
+	<Material id="22">
+	    <name>黑木耳</name>
+	    <image>22.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="23">
+	    <name>当归</name>
+	    <image>23.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="24">
+	    <name>黄芪</name>
+	    <image>24.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="25">
+	    <name>茯苓</name>
+	    <image>25.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="26">
+	    <name>淮山药</name>
+	    <image>26.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="27">
+	    <name>杜仲</name>
+	    <image>27.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="28">
+	    <name>何首乌</name>
+	    <image>28.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="29">
+	    <name>干山楂</name>
+	    <image>29.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="30">
+	    <name>观音串</name>
+	    <image>30.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="31">
+	    <name>荔枝壳</name>
+	    <image>31.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="33">
+	    <name>月子水</name>
+	    <image>33.jpg</image>
+		<desc></desc>
+		<unit>毫升</unit>
+	</Material>
+	<Material id="34">
+	    <name>猪肝</name>
+	    <image>34.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+	<Material id="35">
+	    <name>胡麻油</name>
+	    <image>35.jpg</image>
+		<desc></desc>
+		<unit>毫升</unit>
+		
+	</Material>
+	<Material id="36">
+	    <name>白米</name>
+	    <image>36.jpg</image>
+		<desc></desc>
+		<unit>杯</unit>
+	</Material>
+	<Material id="37">
+	    <name>鱼</name>
+	    <image>37.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+	<Material id="38">
+	    <name>排骨</name>
+	    <image>38.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+	<Material id="39">
+	    <name>素炖品</name>
+	    <image>39.jpg</image>
+		<desc>仿荤素食品,如素鸡,素鸭,素鱼等</desc>
+		<unit>袋</unit>
+	</Material>
+	<Material id="40">
+	    <name>猪腰</name>
+	    <image>40.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+		<unit>个</unit>
+	</Material>
+	<Material id="41">
+	    <name>党参</name>
+	    <image>41.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="42">
+	    <name>胡萝卜</name>
+	    <image>42.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+	<Material id="43">
+	    <name>五花肉</name>
+	    <image>43.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+	<Material id="44">
+	    <name>虾米</name>
+	    <image>44.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="45">
+	    <name>猪心</name>
+	    <image>45.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+	<Material id="46">
+	    <name>时令蔬菜</name>
+	    <image>46.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+	<Material id="47">
+	    <name>土鸡</name>
+	    <image>47.jpg</image>
+		<desc></desc>
+		<unit>只</unit>
+	</Material>
+	<Material id="48">
+	    <name>甘草</name>
+	    <image>48.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="49">
+	    <name>陈皮</name>
+	    <image>49.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="50">
+	    <name>升麻</name>
+	    <image>50.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="52">
+	    <name>花生</name>
+	    <image>52.jpg</image>
+		<desc></desc>
+	</Material>
+	<Material id="53">
+	    <name>猪脚</name>
+	    <image>53.jpg</image>
+		<desc></desc>
+		<tobuy>true</tobuy>
+	</Material>
+</config>
